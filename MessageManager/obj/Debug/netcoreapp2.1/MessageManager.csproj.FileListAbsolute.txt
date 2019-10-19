@@ -1,0 +1,16 @@
+C:\MessageManager\MessageManager\MessageManager\bin\Debug\netcoreapp2.1\MessageManager.deps.json
+C:\MessageManager\MessageManager\MessageManager\bin\Debug\netcoreapp2.1\MessageManager.dll
+C:\MessageManager\MessageManager\MessageManager\bin\Debug\netcoreapp2.1\MessageManager.pdb
+C:\MessageManager\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.csproj.CoreCompileInputs.cache
+C:\MessageManager\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.AssemblyInfoInputs.cache
+C:\MessageManager\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.AssemblyInfo.cs
+C:\MessageManager\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.dll
+C:\MessageManager\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.pdb
+C:\Noel\MessageManager\MessageManager\bin\Debug\netcoreapp2.1\MessageManager.deps.json
+C:\Noel\MessageManager\MessageManager\bin\Debug\netcoreapp2.1\MessageManager.dll
+C:\Noel\MessageManager\MessageManager\bin\Debug\netcoreapp2.1\MessageManager.pdb
+C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.csproj.CoreCompileInputs.cache
+C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.AssemblyInfoInputs.cache
+C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.AssemblyInfo.cs
+C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.dll
+C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.pdb
