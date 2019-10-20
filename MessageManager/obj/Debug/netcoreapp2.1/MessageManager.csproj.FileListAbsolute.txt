@@ -14,3 +14,4 @@ C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.Ass
 C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.AssemblyInfo.cs
 C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.dll
 C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.pdb
+C:\Noel\MessageManager\MessageManager\obj\Debug\netcoreapp2.1\MessageManager.csprojAssemblyReference.cache

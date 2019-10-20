@@ -29,7 +29,13 @@ namespace MessageManager
             this.smtp = new SmtpClient();
 
             CreateMailMessage();
-            CreateSMTP();
+
+            string smtp = Config.Get("smtp_server");
+            int port = Convert.ToInt32(Config.Get("port"));
+            string user = Config.Get("user");
+            string pass = Config.Get("pass");
+
+            CreateSMTP(smtp, port, user, pass);
         }
 
         private bool CreateMailMessage()
@@ -53,16 +59,16 @@ namespace MessageManager
             }
         }
 
-        private bool CreateSMTP()
+        private bool CreateSMTP(string smtpServer, int port, string user, string pass)
         {
             try
             {
 
-                smtp.Host = "smtp.gmail.com";
-                smtp.Port = 587;
+                smtp.Host = smtpServer;
+                smtp.Port = port;
                 smtp.EnableSsl = true;
                 smtp.UseDefaultCredentials = false;
-                smtp.Credentials = new NetworkCredential("noelalbertodg86@gmail.com", "Davy2014Caro2016");
+                smtp.Credentials = new NetworkCredential(user, pass);
 
                 return true;
             }

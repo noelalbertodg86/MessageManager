@@ -11,10 +11,10 @@ namespace MessageTestUnit
         public void SendOneEmail()
         {
             //arrange
-            List<string> recipients = new List<string> { "noel.diaz@easysoft.com.ec" };
+            List<string> recipients = new List<string> { "liacr1988@gmail.com" };
             string from = "noelalbertodg86@gmail.com.ec";
-            string subject = "Hola Mundo";
-            string body = "Hola este es mi programa de envio de mail";
+            string subject = "Te amo";
+            string body = "Te amo mi cosita linda...";
             bool isHtmlBody = false;
 
             Mail mail = new Mail(recipients, from, subject, body, isHtmlBody);
