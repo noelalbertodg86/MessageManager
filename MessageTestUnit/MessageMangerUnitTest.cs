@@ -26,5 +26,24 @@ namespace MessageTestUnit
             Assert.IsTrue(result);
 
         }
+
+
+        [TestMethod]
+        public void SendOneSMS()
+        {
+            //arrange
+            string destinationNumber = "+593987053182";
+            string messaje = @"Probando 1 2 4  
+                               linea dos";
+
+            SMS mail = new SMS(destinationNumber, messaje);
+
+            //act
+            bool result = mail.Send();
+
+            //assert
+            Assert.IsTrue(result);
+
+        }
     }
 }
